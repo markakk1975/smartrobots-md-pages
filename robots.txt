@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://smartrobots.md/sitemap.xml
