@@ -1,0 +1,5 @@
+Contact: mailto:info@smartrobots.md
+Preferred-Languages: ro, ru, en
+Canonical: https://smartrobots.md/.well-known/security.txt
+Policy: https://smartrobots.md/privacy-cookies/
+Expires: 2027-06-09T23:59:00Z
