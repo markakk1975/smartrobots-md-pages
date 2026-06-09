@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://smartrobots.md/sitemap.xml
+Sitemap: https://smartrobots.md/sitemap.xml
